@@ -1,0 +1,25 @@
+{
+  "name": "miles-mods-backend",
+  "version": "1.0.0",
+  "description": "The backend data service for my website.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesoberstadt/miles-mods-backend.git"
+  },
+  "author": "Miles Oberstadt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milesoberstadt/miles-mods-backend/issues"
+  },
+  "homepage": "https://github.com/milesoberstadt/miles-mods-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.15"
+  }
+}
