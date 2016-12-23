@@ -38,3 +38,4 @@ jspm_packages
 
 # Ignore our app secrets 
 config.js
+connectToDB.sh
